@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  border: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: #B3E8E5;
+}
+
+ul {
+  padding: 0;
+}
