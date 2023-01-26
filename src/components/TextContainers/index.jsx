@@ -56,17 +56,16 @@ export default function TextContainer() {
 
                     <SubTitle>Sobre Mim</SubTitle>
                     <Text>
-                        Atualmente curso economia na UFMG, além de estudar programação
-                        por fora. Estou estudandpo React na Alura, além de já ter feito
-                        um curso de desenvolvimento web e outro de Node.js na Udemy.
+                        Atualmente curso economia na UFMG, além de estudar Python voltado
+                        para análise de dados na Alura. Além disso, já estudei React, também
+                        na Alura, e fiz um curso de desenvolvimento web e outro de Node.js na Udemy.
                     </Text>
                     <SubTitle>Motivação</SubTitle>
                     <Text>
-                        Este site foi criado para servir como meu portifólio, com o propósito
-                        de melhorar meu currículo. Além disso, ele é o primeiro projeto que eu
-                        criei e desenvolvi completamente sozinho, como estudo para o curso de
-                        HTML, CSS e JavaScript q eu estava fazendo. Então, ao aprender react,
-                        decidi reconstruí-lo nessa tecnologia.
+                        Este site foi criado para servir como meu portifólio e currículo. Além
+                        disso, ele é o primeiro projeto que eu criei e desenvolvi completamente
+                        sozinho, como estudo para o curso de HTML, CSS e JavaScript q eu estava
+                        fazendo. Então, ao aprender react, decidi reconstruí-lo nessa tecnologia.
                     </Text>
                     <SubTitle>Informações Adicionais</SubTitle>
                     <Text>
@@ -86,9 +85,11 @@ export default function TextContainer() {
                     <Text>
                         Linguagem JavaScript:
                         <br />
-                        - Desenvolvimento Web(front-end): HTML, CSS, Bootstrap e React.
+                        - Desenvolvimento Web(front-end): HTML, CSS e React.
                         <br />
-                        - Desenvolvimento Web(back-end): NodeJS, Express, Sequelize, Axios e MySQL.
+                        Linguagem Python:
+                        <br />
+                        - Pandas, openpyxl e web scraping.
                         <br />
                         Pacote Office: Intermediário (Fórmulas básicas, funções avançadas, gráficos e tabelas dinâmicas).
                         <br />
