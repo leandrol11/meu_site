@@ -62,7 +62,7 @@ export default function TextContainer() {
                     </Text>
                     <SubTitle>Motivação</SubTitle>
                     <Text>
-                        Este site foi criado para servir como meu portifólio e currículo. Além
+                        Este site foi criado para servir como meu portifólio front-end. Além
                         disso, ele é o primeiro projeto que eu criei e desenvolvi completamente
                         sozinho, como estudo para o curso de HTML, CSS e JavaScript q eu estava
                         fazendo. Então, ao aprender react, decidi reconstruí-lo nessa tecnologia.
@@ -85,7 +85,7 @@ export default function TextContainer() {
                     <Text>
                         Linguagem JavaScript:
                         <br />
-                        - Desenvolvimento Web(front-end): HTML, CSS e React.
+                        - Desenvolvimento Web(front-end): HTML, CSS, JavaScript e React.
                         <br />
                         Linguagem Python:
                         <br />
@@ -97,6 +97,12 @@ export default function TextContainer() {
                     </Text>
                     <SubTitle>Experiências</SubTitle>
                     <Text>
+                        Blink Telecom
+                        <br />
+                        - Estagiário  Financeiro
+                        <br />
+                        - Início em Mar 2023 - Atualmente
+                        <br />
                         Tangram
                         <br />
                         - Estagiário de Criação de Conteúdo Financeiro
