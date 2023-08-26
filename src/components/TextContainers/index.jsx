@@ -57,13 +57,13 @@ export default function TextContainer() {
                     <SubTitle>Sobre Mim</SubTitle>
                     <Text>
                         Atualmente curso economia na UFMG, além de estudar Python voltado
-                        para análise de dados na Alura. Além disso, já estudei React, também
+                        para análise de dados por fora. Bem como, já estudei React
                         na Alura, e fiz um curso de desenvolvimento web e outro de Node.js na Udemy.
                     </Text>
                     <SubTitle>Motivação</SubTitle>
                     <Text>
-                        Este site foi criado para servir como meu portifólio front-end. Além
-                        disso, ele é o primeiro projeto que eu criei e desenvolvi completamente
+                        Este site foi criado para servir um portifólio dos meus estudos front-end.
+                        Além disso, ele é o primeiro projeto que eu criei e desenvolvi completamente
                         sozinho, como estudo para o curso de HTML, CSS e JavaScript q eu estava
                         fazendo. Então, ao aprender react, decidi reconstruí-lo nessa tecnologia.
                     </Text>
@@ -85,11 +85,11 @@ export default function TextContainer() {
                     <Text>
                         Linguagem JavaScript:
                         <br />
-                        - Desenvolvimento Web(front-end): HTML, CSS, JavaScript e React.
+                        - Desenvolvimento Web(front-end): HTML, CSS e React.
                         <br />
                         Linguagem Python:
                         <br />
-                        - Pandas, openpyxl e web scraping.
+                        - Pandas.
                         <br />
                         Pacote Office: Intermediário (Fórmulas básicas, funções avançadas, gráficos e tabelas dinâmicas).
                         <br />
@@ -101,7 +101,7 @@ export default function TextContainer() {
                         <br />
                         - Estagiário  Financeiro
                         <br />
-                        - Início em Mar 2023 - Atualmente
+                        - Início em Abr 2023 - Atualmente
                         <br />
                         Tangram
                         <br />
@@ -110,6 +110,7 @@ export default function TextContainer() {
                         - Início em Set 2022 - Out 2022
                         <br />
                         Fui responsável pela criação de conteúdos e atividades sobre finanças.
+                        Bem como tratava o abnco de dados em excel.
                     </Text>
                     <SubTitle>Atividades Extracurriculares</SubTitle>
                     <Text>
