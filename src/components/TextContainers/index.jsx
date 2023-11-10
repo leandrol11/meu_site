@@ -56,9 +56,10 @@ export default function TextContainer() {
 
                     <SubTitle>Sobre Mim</SubTitle>
                     <Text>
-                        Atualmente curso economia na UFMG, além de estudar Python voltado
-                        para análise de dados por fora. Bem como, já estudei React
-                        na Alura, e fiz um curso de desenvolvimento web e outro de Node.js na Udemy.
+                        Atualmente curso economia na UFMG e estagiário na
+                        ARSAE-MG(agência do governo estadual). Bem como, já estudei React
+                        na Alura, desenvolvimento web e Node.js na Udemy.
+                        Além disso, estudo Python e R pela Udemy no tempo livre.
                     </Text>
                     <SubTitle>Motivação</SubTitle>
                     <Text>
@@ -87,9 +88,9 @@ export default function TextContainer() {
                         <br />
                         - Desenvolvimento Web(front-end): HTML, CSS e React.
                         <br />
-                        Linguagem Python:
+                        Linguagem Python e R
                         <br />
-                        - Pandas.
+                        - Voltados para análise, tratamento e automatização de banco de dados
                         <br />
                         Pacote Office: Intermediário (Fórmulas básicas, funções avançadas, gráficos e tabelas dinâmicas).
                         <br />
@@ -97,11 +98,20 @@ export default function TextContainer() {
                     </Text>
                     <SubTitle>Experiências</SubTitle>
                     <Text>
+                        ARSAE-MG
+                        <br />
+                        - Estagiário  da Gerência de Regulamentação Tarifária
+                        <br />
+                        - Início em Out 2023 - Atualmente
+                        <br />
                         Blink Telecom
                         <br />
                         - Estagiário  Financeiro
                         <br />
-                        - Início em Abr 2023 - Atualmente
+                        - Início em Abr 2023 - Set 2023
+                        <br />
+                        Realizei rotinas de lançamentos, baixas, conciliações e
+                        confecção de relatórios.
                         <br />
                         Tangram
                         <br />
@@ -109,8 +119,8 @@ export default function TextContainer() {
                         <br />
                         - Início em Set 2022 - Out 2022
                         <br />
-                        Fui responsável pela criação de conteúdos e atividades sobre finanças.
-                        Bem como tratava o abnco de dados em excel.
+                        Fui responsável pela criação de conteúdos e atividades
+                        sobre finanças. Bem como tratava o abnco de dados em excel.
                     </Text>
                     <SubTitle>Atividades Extracurriculares</SubTitle>
                     <Text>
@@ -128,16 +138,18 @@ export default function TextContainer() {
                         <br />
                         - Início em Jan 2021 - Jun 2021 (6 meses)
                         <br />
-                        Formada por, e para os, alunos da UFMG, a Liga de Mercado e Negócios, LMN, tem como missão “Diminuir o hiato entre o mercado de trabalho e os alunos da UFMG”.
+                        Formada por, e para os, alunos da UFMG, a Liga de Mercado
+                        e Negócios, LMN, tem como missão “Diminuir o hiato entre o
+                        mercado de trabalho e os alunos da UFMG”.
                     </Text>
                     <SubTitle>Escolaridade</SubTitle>
                     <Text>
                         Conclusão Ensino Médio - Dezembro 2018
                         <br />
-                        Fundação de Ensino de Contagem ( FUNEC) - Unidade Xangri-lá
+                        Fundação de Ensino de Contagem (FUNEC) - Unidade Xangri-lá
                         <br />
                         <br />
-                        Superior em Curso - Início 2019/2 - Previsão de Conclusão 2024/2
+                        Superior em Curso - Início 2019/2 - Previsão de Conclusão 2025/1
                         <br />
                         Economia - 5° Período - Matutino
                         <br />
